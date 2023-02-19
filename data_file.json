@@ -1,0 +1,72 @@
+[
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 1,
+    "Angle": 45,
+    "Length": 123.32,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 2,
+    "Angle": 45,
+    "Length": 115.62,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 3,
+    "Angle": 0,
+    "Length": 108.01999999999998,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 4,
+    "Angle": 45,
+    "Length": 100.32,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 5,
+    "Angle": 45,
+    "Length": 92.72,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 6,
+    "Angle": -45,
+    "Length": 85.01999999999998,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 7,
+    "Angle": 45,
+    "Length": 77.41999999999999,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 8,
+    "Angle": 45,
+    "Length": 69.82,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 9,
+    "Angle": 45,
+    "Length": 62.12,
+    "Width": 280
+  },
+  {
+    "NameProject": "\u041b\u0438\u0441\u04421",
+    "Name": 10,
+    "Angle": -45,
+    "Length": 52.220000000000006,
+    "Width": 280
+  }
+]
